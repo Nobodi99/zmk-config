@@ -1,0 +1,8 @@
+  file_format: "1"
+  id: dactyl_minidox_3x5
+  name: Dactyl Minidox
+  type: shield
+  url: https://github.com/Nobodi99/zmk-config
+  requires: [seeed_xiao]
+  features:
+    - keys
