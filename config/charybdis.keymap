@@ -6,17 +6,6 @@
 #include <dt-bindings/zmk/pointing.h>
 #include "combos.dtsi"
 
-#define WIN 1
-#define SYMBOLS 2
-#define NUMBERS 3
-#define NAV 4
-#define FUNCTION 5
-#define BLUETOOTH 6
-#define MOUSE 7
-#define CLICK 8
-#define SCRL 9
-#define BIRO 10
-
 &caps_word { 
     continue-list = <NB_UNDERSCORE NB_MINUS WNB_UNDERSCORE WNB_MINUS BACKSPACE DEL>; 
     };
