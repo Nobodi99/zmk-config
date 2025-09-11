@@ -1,6 +1,6 @@
 #include "keys_nb_osx.h"
 #include "keys_nb_win.h"
-#include <ehaviors.dtsi>
+#include <behaviors.dtsi>
 #include "behaviours.dtsi"
 #include "behaviours.h"
 #include <dt-bindings/zmk/bt.h>
