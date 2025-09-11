@@ -1,16 +1,16 @@
 #include <dt-bindings/zmk/input_transform.h>
 #include <input/processors.dtsi>
 
-#define WIN 1
-#define SYMBOLS 2
-#define NUMBERS 18
-#define NAV 4
-#define FUNCTION 5
-#define BLUETOOTH 6
-#define MOUSE 7
-#define CLICK 8
-#define SCRL 9
-#define BIRO 10
+#define U_BASE   0
+#define U_EXTRA  1
+#define U_TAP    2
+#define U_BUTTON 3
+#define U_NAV    4
+#define U_MOUSE  5
+#define U_MEDIA  6
+#define U_NUM    7
+#define U_SYM    8
+#define U_FUN    9
 
 / {
   split_inputs {
