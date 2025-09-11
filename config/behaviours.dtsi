@@ -1,4 +1,4 @@
-
+/ {
   behaviors {
     u_mt: u_mt {
       compatible = "zmk,behavior-hold-tap";
@@ -15,3 +15,4 @@
       bindings = <&mo>, <&kp>;
     };
   };
+};
